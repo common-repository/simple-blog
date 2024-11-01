@@ -1,0 +1,19 @@
+p.simple_blog_label {
+	font-size: 12px;
+    line-height: 1.5em;
+    margin: 1em 0 1em;
+    padding: 0;
+    color: #666666;
+    text-shadow: 0 1px 0 #FFFFFF;
+}
+
+p.simple_blog_label label {
+	color: #333333;
+    font-size: 13px;
+    line-height: 1.5em;
+    font-weight: bold;
+    padding: 0;
+    margin: 0 0 3px;
+    display: block;
+    vertical-align: text-bottom;
+}
